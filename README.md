@@ -1,60 +1,78 @@
-Blinkit Business Sales Analysis – Power BI Project
+# 🛒 Blinkit Sales Analysis Dashboard
 
-## 📷 Dashboard Preview
+![Blinkit Dashboard](https://github.com/user-attachments/assets/13000491-958e-498a-ad6e-53956295be5c)
 
-![BLINKIT DASHBOARD](https://github.com/user-attachments/assets/13000491-958e-498a-ad6e-53956295be5c)
+## 📊 Project Overview
+
+This Power BI dashboard presents a detailed **sales analysis for Blinkit**, India's quick-commerce delivery platform. The report provides a clear visualization of key business metrics such as sales distribution, outlet types, item popularity, and customer ratings — enabling data-driven decision-making.
+
+---
+
+## 🚀 Key Features
+
+- 📦 **Sales Breakdown** by:
+  - Fat Content (Low Fat vs Regular)
+  - Item Type (Household, Snacks, Dairy, etc.)
+  - Outlet Tier and Location
+
+- 🏪 **Outlet Insights**:
+  - Year-wise establishment trend (2012–2022)
+  - Outlet sizes (Small, Medium, High)
+  - Locations by Tier 1, 2, and 3
+
+- 📊 **Performance Metrics**:
+  - Total Sales
+  - Number of Items
+  - Average Sales per Item
+  - Customer Ratings
+
+- 🧰 **Dynamic Filter Panel**:
+  - Outlet Location Type
+  - Outlet Size
+  - Item Category
+
+---
+
+## 📈 Key Metrics
+
+- **Total Sales**: `$776.32K`
+- **Number of Items**: `5517`
+- **Average Sales per Item**: `$141`
+- **Average Rating**: `3.9 / 5`
+
+---
+
+## 🏪 Outlet Performance Snapshot
+
+| Outlet Type         | Total Sales | Items | Avg Sales | Rating | Visibility |
+|---------------------|-------------|-------|-----------|--------|------------|
+| Grocery Store       | $99.81K     | 705   | $142      | 4      | 0.10       |
+| Supermarket Type1   | $507.89K    | 3609  | $141      | 4      | 0.06       |
+| Supermarket Type2   | $84.84K     | 598   | $142      | 4      | 0.06       |
+| Supermarket Type3   | $83.77K     | 605   | $138      | 4      | 0.06       |
+
+---
+
+## 🧠 Business Insights
+
+- Tier 3 outlets generate the highest sales volume.
+- Regular fat content items contribute more to total sales.
+- Supermarket Type1 dominates in both item count and revenue.
+- Steady outlet growth over a decade, peaking in 2018.
+
+---
+
+## 🛠️ Tools Used
+
+- **Power BI** – Interactive visualizations & DAX measures
+- **Data Modeling** – Transformations for item categories, outlet segmentation, and time-based trends
+- **Design** – Custom layout with intuitive color-coded KPIs and donut/bar charts
+
+---
 
 
 
-Overview
-This Power BI project provides an in-depth sales analysis for Blinkit, a quick-commerce grocery delivery platform. The dashboard delivers actionable insights into sales performance, item-wise contributions, outlet dynamics, and key metrics across different locations, outlet types, and product categories. The goal is to assist stakeholders in making informed, data-driven decisions to enhance operational and strategic effectiveness.
 
-
-Project Features
-📊 Charts and Visuals Included
-1.Total Sales Overview (Donut & Bar Charts)
-  Understand the distribution of total sales by item types and fat content.
-2.Average Sales & Rating Analysis
-  Track average sales and customer ratings across product segments.
-3.Outlet Establishment Over Time (Line Chart)
-  Visualize sales trends over the years to identify growth and dips.
-4.Outlet Size & Location Breakdown (Pie and Bar Charts)
-  Analyze contributions from small, medium, and large outlets across Tier 1, 2, and 3 locations.
-5.Sales by Outlet Type (Tabular View)
-  Compare KPIs like total sales, number of items, average sales, ratings, and item visibility across outlet types.
-
-
-  Key Performance Indicators (KPIs)
-1.Total Sales: $776.32K
-2.Average Sales per Item: $141
-3.Total Number of Items: 5517
-4.Average Customer Rating: 3.9 / 5
-
-
-Business Requirements & Goals
-1.Evaluate the performance of different outlet types and item categories.
-2.Identify high-performing outlet locations and sizes for targeted growth.
-3.Analyze customer preferences using fat content and rating data.
-4.Provide a comprehensive snapshot to improve product stocking, pricing, and marketing.
-5.Guide operational decisions with sales and visibility insights.
-
-
-Tools and Technologies Used
-1.Power BI: Data modeling, transformation, and dashboard creation.
-2.Data Source: Blinkit’s sales data categorized by item type, outlet type, location, size, and consumer ratings.
-3.Visualizations: Donut charts, bar charts, pie charts, area and line charts, and KPI cards.
-
-
-Key Insights
-1.Tier 3 locations generated the highest sales among outlet tiers.
-2.Regular fat content items contributed over 54% of the total sales.
-3.Grocery stores performed best among outlet types in terms of item count and sales.
-4.Top-selling item categories included Household, Snack Foods, and Fruits & Vegetables.
-5.Outlet establishment growth peaked in 2018, indicating a strong historical expansion.
-
-
-Conclusion
-This Blinkit Sales Dashboard offers a holistic view of the platform’s sales and operational efficiency. By integrating multiple dimensions such as outlet type, size, location, and product attributes, the dashboard empowers decision-makers with data-driven insights to optimize sales strategies, enhance customer satisfaction, and drive business growth.
 
 
 

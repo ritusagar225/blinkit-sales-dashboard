@@ -2,7 +2,8 @@ Blinkit Business Sales Analysis – Power BI Project
 
 ## 📷 Dashboard Preview
 
-![Blinkit Sales Dashboard]("C:\Users\saura\POWERBI PROJECT\BLINKIT DASHBOARD.png")
+![Blinkit Sales Dashboard](![BLINKIT DASHBOARD](https://github.com/user-attachments/assets/13000491-958e-498a-ad6e-53956295be5c)
+)
 
 
 Overview

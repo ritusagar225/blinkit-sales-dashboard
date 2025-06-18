@@ -3,7 +3,7 @@ Blinkit Business Sales Analysis – Power BI Project
 ## 📷 Dashboard Preview
 
 [Blinkit Sales Dashboard](![BLINKIT DASHBOARD](https://github.com/user-attachments/assets/80079d67-6ec2-40ff-bf34-d74a75de2204)
-)
+
 
 Overview
 This Power BI project provides an in-depth sales analysis for Blinkit, a quick-commerce grocery delivery platform. The dashboard delivers actionable insights into sales performance, item-wise contributions, outlet dynamics, and key metrics across different locations, outlet types, and product categories. The goal is to assist stakeholders in making informed, data-driven decisions to enhance operational and strategic effectiveness.
